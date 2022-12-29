@@ -1,6 +1,6 @@
 # oierdb 自动查询
 # Author: wzx1210
-# Date: 2020-10-1
+# Date: 2022-10-1
 # Version: 1.0
 # Path: ioerdb_spider.py
 # input: standard input name

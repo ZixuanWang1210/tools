@@ -1,6 +1,6 @@
 # 易查分微信小程序爬虫
 # Author: wzx1210
-# Date: 2020-11-27
+# Date: 2022-11-27
 # Version: 1.0
 # Path: acwingAcCnt_spider.py
 # input: ./input.xls
