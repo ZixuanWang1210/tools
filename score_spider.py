@@ -2,7 +2,7 @@
 # Author: wzx1210
 # Date: 2022-11-27
 # Version: 1.0
-# Path: acwingAcCnt_spider.py
+# Path: score_spider.py
 # input: ./input.xls
 # input format: [class, name, id] without header
 # output: ./result.xls
